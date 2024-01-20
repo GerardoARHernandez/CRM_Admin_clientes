@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gerardo",
+      "empresa": "Google",
+      "email": "gera@correo.com",
+      "telefono": "102013313",
+      "notas": "Nueva nota",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@correo.com",
+      "empresa": "Google"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@correo.com",
+      "empresa": "Google"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@correo.com",
+      "empresa": "Google"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@correo.com",
+      "empresa": "Google"
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Google",
+      "email": "correo@correo.com",
+      "telefono": "5573858588",
+      "notas": "Nueva nota",
+      "id": "50e7"
+    }
+  ]
+}
